@@ -1,6 +1,5 @@
 # Kardma
 
-This is a customer insights sample application for
-[*Kardma*] (http://mykardma.com)
+This is a customer insights sample application for [*Kardma*] (http://mykardma.com)
 
 by [Charlie Cryder] (http://inspiredigitalmedia.com)
